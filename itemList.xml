@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemList>
+	<Item ItemID="xx1" ItemType='Regular'/>
+	<Item ItemID="xx2" ItemType='NS'/>
+	<Item ItemID="xx3" ItemType='Regular'/>
+	<Item ItemID="xx4" ItemType='NS'/>
+</ItemList>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ItemList>
+	<Item ItemID="xx1" ItemType='Regular'>
+		<DemandChanges/>
+		<TotalDemand>
+			<Demand/>
+		</TotalDemand>
+	</Item>
+	<Item ItemID="xx2" ItemType='NS'>
+		<DemandChanges/>
+		<TotalDemand>
+			<Demand/>
+		</TotalDemand>
+	</Item>
+	<Item ItemID="xx3" ItemType='Regular'>
+		<DemandChanges/>
+		<TotalDemand>
+			<Demand/>
+		</TotalDemand>
+	</Item>
+	<Item ItemID="xx4" ItemType='NS'>
+		<DemandChanges/>
+		<TotalDemand>
+			<Demand/>
+		</TotalDemand>
+	</Item>
+</ItemList>
