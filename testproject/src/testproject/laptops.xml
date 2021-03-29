@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<laptops>
+<laptop name="DELL">
+<price value="50000"/>
+<ram value="2GB"/>
+<hd value="20GB"/>
+</laptop>
+<laptop name="LENOVO">
+<price value="20000"/>
+<ram value="3GB"/>
+<hd value="21GB"/>
+</laptop>
+<laptop name="APPLE">
+<price value="80000"/>
+<ram value="4GB"/>
+<hd value="22GB"/>
+</laptop>
+</laptops>
